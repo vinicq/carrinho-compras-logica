@@ -26,6 +26,10 @@ O **Sistema de Carrinho de Compras** permite ao usuário:
 - **JavaScript**: A linguagem principal usada para a lógica do sistema.
 - **HTML/CSS**: Para estruturar e estilizar a interface do usuário.
 
+## 📸 Capturas de Tela
+
+![Sistema de Aluguel de Jogos](https://github.com/vinicq/carrinho-compras-logica/blob/master/path/to/screenshot.png)
+
 ## 🎮 Como Usar
 
 1. Clone este repositório para a sua máquina local.
